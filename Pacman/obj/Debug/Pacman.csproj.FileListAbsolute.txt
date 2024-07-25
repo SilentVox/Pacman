@@ -1,0 +1,7 @@
+D:\Projects Visual Studio\Pacman\bin\Debug\Pacman.exe.config
+D:\Projects Visual Studio\Pacman\bin\Debug\Pacman.exe
+D:\Projects Visual Studio\Pacman\bin\Debug\Pacman.pdb
+D:\Projects Visual Studio\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\Pacman\obj\Debug\Pacman.exe
+D:\Projects Visual Studio\Pacman\obj\Debug\Pacman.pdb
